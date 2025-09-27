@@ -1,4 +1,4 @@
-# Calcular el 18% de IGV a partir de un monto de pagoç
+# Calcular el 18% de IGV a partir de un monto de pago
 
 # Inicio: Definir o crear las variables
 monto_pago = 600
