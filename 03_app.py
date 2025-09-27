@@ -21,3 +21,13 @@ district = "San luis"
 print(district)
 print(f"nombre de Distrito: {district}")
 
+# Precio de un producto
+price = 45.99
+print(price)
+print(f"El precio es {price}")
+
+# Es un cliente activo
+is_active_client = True
+print(is_active_client)
+print(f"¿Esta activo? {is_active_client}")
+
