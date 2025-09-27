@@ -33,7 +33,7 @@ print(f"¿Esta activo? {is_active_client}")
 
 # Trabajando con fechas
 from datetime import date
-fecha_clase = date(2025, 9, 22) # (yyyy, mm,dd)
+fecha_clase = date(1987, 7, 25) # (yyyy, mm,dd)
 print(fecha_clase)
 print(f"la fecha de hoy es: {fecha_clase}")
 
