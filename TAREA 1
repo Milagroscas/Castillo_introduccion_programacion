@@ -11,3 +11,17 @@ monto_dolares = monto_soles / tasa_cambio
 # resultado final
 print(f"\nMonto ingresado: S/ {monto_soles:.2f}")
 print(f"Equivalente en dólares: $ {monto_dolares:.2f}")
+
+# Calcular el 3.85 de cambio a partir de un monto de pago
+
+# Inicio: Definir o crear las variables
+monto_pago = 100
+cambio = 3.85
+
+# Proceso: Realizar las operaciones de calculo
+monto_a_pagar = monto_pago + (monto_pago * cambio)
+
+# Salida: Visualizacion de resultados
+print(f"El monto es: {monto_pago}")
+print(f"El cambio es: {cambio}")
+print(f"El monto a pagar es: {monto_a_pagar}")
