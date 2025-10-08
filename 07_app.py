@@ -13,8 +13,8 @@ int(False)    # (False equivale a 0)
 # float() -> Convierte a número decimal
 # Convierte valores a número decimal (float).
 # Muy útil para operaciones matemáticas donde necesitas decimales.
-float("3.14")   # (cadena a decimal)
-float(10)       # (entero a decimal)
+float("3.85")   # (cadena a decimal)
+float(1000)       # (entero a decimal)
 float(True)     # 1.0
 float(False)    # 0.0
 
