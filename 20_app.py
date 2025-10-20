@@ -1,21 +1,16 @@
-temperatura = float(input("ingrese temperatura: "))
-escala = input("farenheit(f) o es celsius (c)?")
-if escala == "f":
-    celsius = (temperatura - 32) * 5/9
-    print(celsius)
+# Estructura de bucle For
 
+# Sintaxis
+# for value in sequence:
+#   instrucción, que es lo que debe hacer mientras se cumple el bucle
 
-elif escala == "c":
-    farenheit = temperatura *1.8 + 32
-    print(arenheit)
+# Ejemplo:
 
+# Listado de notas de exámenes
+notas = ["16", "10", 5, 18, 20]
 
-
-
-
-else:
-    print("escala incorrecta")
-    
+for nota in notas:
+    print(nota) 
 
 
 
